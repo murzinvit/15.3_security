@@ -15,3 +15,5 @@
 - Применить к HTTPS запросам на LB созданный ранее сертификат.
 
 ---
+worknotes: </br>
+https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/storage_bucket </br>
